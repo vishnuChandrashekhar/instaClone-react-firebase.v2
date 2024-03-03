@@ -17,3 +17,5 @@ This project is an Instagram clone developed using React and Firebase. It aims t
 
 The project is currently under development. Core features such as user authentication, posting, liking, and commenting are being implemented. Further enhancements and optimizations are planned for future iterations. 
 
+## Open master branch for Source Code.
+
